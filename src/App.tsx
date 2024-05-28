@@ -89,7 +89,7 @@ function App() {
   };
   return (
     <div className="relative overflow-x-auto flex justify-center ">
-      <table className="w-full text-sm text-left rtl:text-right text-gray-500 m-4 w-5/6">
+      <table className="text-sm text-left rtl:text-right text-gray-500 m-4 w-5/6">
         <thead className="text-xs text-gray-500 capitalize bg-zinc-100 border-t border-b border-zinc-300">
           <tr>
             <th scope="col" className="px-6 py-3">
